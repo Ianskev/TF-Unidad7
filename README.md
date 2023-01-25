@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto-Unidad7
 
 Project 7 for the Backend bootcamp MTPE - Silabuz
@@ -64,9 +63,3 @@ Run project
 - [Sebastian Arquinigo](https://github.com/sebas0303)
 - [Anthony Quispe](https://github.com/Anthony-moises)
 - [Ian Flores](https://github.com/Ianskev)
-
-=======
-# TF-Unidad7
-Proyecto de la Unidad 7
-servicio de transmisión de música que permite a los usuarios crear cuentas, iniciar sesión, ver y agregar canciones a las listas de reproducción.
->>>>>>> 4be987eb527c7db8dc923a446a54445dab902ac6
